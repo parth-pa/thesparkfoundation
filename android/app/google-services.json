@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773198389805",
+    "project_id": "banka-5fabc",
+    "storage_bucket": "banka-5fabc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773198389805:android:b66aade35b1f3785eb4ea4",
+        "android_client_info": {
+          "package_name": "com.example.bankapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773198389805-8ito8h1koi94g32dfhf5g19pibbdiqfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbKAfkSucmyDAI3Wy1mDb_FsLBMEoMumM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773198389805-8ito8h1koi94g32dfhf5g19pibbdiqfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
